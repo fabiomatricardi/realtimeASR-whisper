@@ -163,9 +163,19 @@ Models are multilingual unless the model name includes .en. Models ending in -q5
 
 
 
+### Inspirations
+- YOUTUBE VIDEO   [https://www.youtube.com/watch?v=_spinzpEeFM](https://www.youtube.com/watch?v=_spinzpEeFM)
+
+- GITHUB whisper_streaming PROJECT
+[https://github.com/ufal/whisper_streaming](https://github.com/ufal/whisper_streaming)
 
 
+
+
+
+### Additional Software reqruied
 
 <img src='https://github.com/fabiomatricardi/realtimeASR-whisper/raw/main/VA-VBAudio.png' width=400> <img src='https://github.com/fabiomatricardi/realtimeASR-whisper/raw/main/VA-VirtualAudioCable.png' width=400>
-### Additional Software reqruied
+
+
 
